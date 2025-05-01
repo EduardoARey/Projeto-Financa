@@ -1,0 +1,15 @@
+<resources>
+        <string name="app_name">Minhas Finanças</string>
+        <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar"></style>
+        <item name="editDescricao" type="id"/>
+        <item name="editValor" type="id"/>
+        <item name="spinnerCategoria" type="id"/>
+        <item name="btnData" type="id"/>
+        <item name="btnSalvar" type="id"/>
+        <item name="txtGastoTotal" type="id"/>
+        <item name="txtCategoriaMaior" type="id"/>
+        <item name="txtValorMaior" type="id"/>
+        <item name="listViewResumo" type="id"/>
+        <item name="txtResumoCategoria" type="id"/>
+        <item name="txtResumoValor" type="id"/>
+</resources>
